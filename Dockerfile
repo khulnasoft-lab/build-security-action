@@ -1,4 +1,4 @@
-FROM aquasec/trivy:0.21.0
+FROM aquasec/trivy:0.50.1
 
 COPY entrypoint.sh /
 
